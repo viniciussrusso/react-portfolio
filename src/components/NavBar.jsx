@@ -37,7 +37,7 @@ export const NavBar = () => {
         {links.map(({ id, link }) => (
           <li
             key={link.id}
-            className="px-4 cursor-pointer capitalize font-medium text-white-500 hover:scale-105 hover:text-yellow-300 duration-200"
+            className="px-4 cursor-pointer capitalize font-medium text-white-500 hover:scale-105 hover:text-cyan-500 duration-200"
           >
             {link}
           </li>
@@ -56,7 +56,7 @@ export const NavBar = () => {
           {links.map(({ id, link }) => (
             <li
               key={link.id}
-              className="px-4 cursor-pointer capitalize py-6 text-4xl hover:text-yellow-300 duration-200"
+              className="px-4 cursor-pointer capitalize py-6 text-4xl hover:text-cyan-500 duration-200"
             >
               {link}
             </li>
