@@ -1,6 +1,7 @@
 import React from "react";
 import heroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
+import { Link } from "react-scroll";
 
 export const Home = () => {
   return (
@@ -18,8 +19,11 @@ export const Home = () => {
             hsjkdhfjksdhfjkhsdjkfhdsjhfygsdhjfgfhsgdhjfhsdjkf
           </p>
           <div>
-            <button
-              className="text-white w-fit px-6 py-3 my-2 flex items-center
+            <Link
+              to="portfolio"
+              smooth
+              duration={500}
+              className=" group text-white w-fit px-6 py-3 my-2 flex items-center
          rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
             >
               Portfolio
@@ -29,7 +33,7 @@ export const Home = () => {
                   className="ml-1"
                 ></MdOutlineKeyboardArrowRight>
               </span>
-            </button>
+            </Link>
           </div>
         </div>
 
