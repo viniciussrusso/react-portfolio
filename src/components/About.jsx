@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Above = () => {
+export const About = () => {
   return (
     <div
       name="about"
@@ -8,13 +8,13 @@ export const Above = () => {
       "
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-6">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500  hover:text-cyan-500">
             About
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-6">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
