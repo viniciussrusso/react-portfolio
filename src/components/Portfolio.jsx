@@ -1,39 +1,7 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navBar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactParallax.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import { portfolios } from "../utils";
 
 export const Portfolio = () => {
-  const portfolios = [
-    {
-      id: 1,
-      src: arrayDestruct,
-    },
-    {
-      id: 2,
-      src: reactParallax,
-    },
-    {
-      id: 3,
-      src: navBar,
-    },
-    {
-      id: 4,
-      src: installNode,
-    },
-    {
-      id: 5,
-      src: reactSmooth,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
-  ];
-
   return (
     <div
       name="portfolio"
