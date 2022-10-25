@@ -15,6 +15,8 @@ import {
   tailwind,
   javascript,
   scrum,
+  restapi,
+  node,
 } from "../assets";
 
 export const portfolios = [
@@ -101,6 +103,18 @@ export const techs = [
   },
   {
     id: 10,
+    src: restapi,
+    title: "Rest API",
+    style: "shadow-green-500",
+  },
+  {
+    id: 11,
+    src: node,
+    title: "Node.js",
+    style: "shadow-green-500",
+  },
+  {
+    id: 12,
     src: scrum,
     title: "Scrum",
     style: "shadow-orange-500",

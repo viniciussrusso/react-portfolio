@@ -15,8 +15,8 @@ export const Home = () => {
             I am a Web Developer
           </h2>
           <p className="text-yellow-100 py-4 max-w-md">
-            fhsgdhjfhsdjkfhsjkdhfjksdhfjkhsdjkfhdsjhfygsdhjfgfhsgdhjfhsdjkf
-            hsjkdhfjksdhfjkhsdjkfhdsjhfygsdhjfgfhsgdhjfhsdjkf
+            With strong knowledge in HTML, CSS, Bootstrap, JavaScript, and
+            React.js
           </p>
           <div>
             <Link

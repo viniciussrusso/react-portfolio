@@ -14,26 +14,27 @@ export const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        <p className="text-xl mt-3">Hey, there!</p>
+
+        <p className="text-xl text-justify mt-3">
+          I am a graduate with a BSc in Computing from the National College of
+          Ireland. I have been passionate about programming since my teenage
+          hood. I have always enjoyed watching tutorials and learning about web
+          development. Then, in 2019 I enrolled myself for a computing degree.
         </p>
 
-        <br />
+        <p className="text-xl text-justify mt-3">
+          Since 2019, I have learnt several Programming Concepts, most of them
+          through Java, and Python. I have also built numerous databases using
+          MongoDB, and MySQL. During these years I started to learn HTML, CSS,
+          JavaScript, Bootstrap, and React.js, and I enjoyed it so much that I
+          decided to become a Full Stack Web Developer.
+        </p>
 
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        <p className="text-xl text-justify mt-3">
+          During my leisure activities, I enjoy being surrounded by nature,
+          family, and friends. I also enjoy discussing politics, reading books,
+          and exercising.
         </p>
       </div>
     </div>

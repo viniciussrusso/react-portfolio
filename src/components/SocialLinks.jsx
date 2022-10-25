@@ -34,7 +34,7 @@ export const SocialLinks = () => {
           <FaWhatsappSquare size={30} />
         </>
       ),
-      href: " mailto:viniciussrusso@outlook.com",
+      href: "https://wa.me/+353896158299",
     },
     {
       id: 4,
