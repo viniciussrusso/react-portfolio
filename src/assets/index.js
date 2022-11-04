@@ -1,3 +1,5 @@
+// Technologies' icons
+
 import html from "../assets/technologies/html.png";
 import css from "../assets/technologies/css.png";
 import javascript from "../assets/technologies/javascript.png";
@@ -10,6 +12,8 @@ import github from "../assets/technologies/github.png";
 import tailwind from "../assets/technologies/tailwind.png";
 import node from "../assets/technologies/node.png";
 import scrum from "../assets/technologies/scrum.png";
+
+// Projects screenshots
 
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
 import installNode from "../assets/portfolio/installNode.jpg";

@@ -19,6 +19,7 @@ import {
   node,
 } from "../assets";
 
+// Projects
 export const portfolios = [
   {
     id: 1,
@@ -45,6 +46,8 @@ export const portfolios = [
     src: reactWeather,
   },
 ];
+
+// Technologies' icons and names
 
 export const techs = [
   {
