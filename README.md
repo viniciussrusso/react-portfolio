@@ -13,6 +13,44 @@ I have created this to show you interesting facts about me and what I have achie
 
 <code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png"></code>
 
+React.JS
 
+<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwind.png"></code>
+
+Tailwind 
+
+<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwind.png"></code>
+
+
+## Demonstration 
+
+........
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/viniciussrusso/react-portfolio.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 
