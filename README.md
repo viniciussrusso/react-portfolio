@@ -11,13 +11,11 @@ I have created this to show you interesting facts about me and what I have achie
 
 # Technologies
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png"></code>
+<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png">
+<p>React.js</p>
+<img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg"><p>Tailwind</p>
+</code>
 
-React.JS
-
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg"></code>
-
-Tailwind 
 
 
 
