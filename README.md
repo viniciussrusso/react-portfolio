@@ -13,19 +13,19 @@ This is a simple one-page application which I have built using React.js, and Tai
 
 # Technologies
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png"></code>
+<img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png">
 
 React.JS
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg"></code>
+<img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg">
 
 Tailwind 
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/html.png"></code>
+<img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/html.png">
 
 HTML  
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/javascript.png"></code>
+<img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/javascript.png">
 
 JavaScript  
 
@@ -35,14 +35,14 @@ JavaScript
 
 ### Mobile
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/mobile-app.png"></code>
+<img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/mobile-app.png">
 
 
 ### PC/Laptop
 
-<code><img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/"></code>
+<img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
 
-
+<img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
 
 # Run Locally
 
