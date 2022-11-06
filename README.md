@@ -40,9 +40,9 @@ JavaScript
 
 ### PC/Laptop
 
-<img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
+<img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
 
-<img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
+<img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
 
 # Run Locally
 
