@@ -11,19 +11,27 @@ This is a simple one-page application which I have built using React.js, and Tai
 
 [**Visit my portfolio online**](https://viniciussrusso.github.io/react-portfolio/)
 
+<br>
+
 # Technologies
 
 
 <table border="0">
   <tr>
     <td>
-      <img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png">
+      <p align="center">
+        <img align="center"height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/react.png">
+      </p>
     </td>  
-    <td>   
-      <img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg">
+    <td>  
+      <p align="center">
+        <img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/tailwindcss.svg">
+      </p> 
     </td>  
     <td>
-      <img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/javascript.png">
+      <p align="center">
+        <img height="38" width="38" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/javascript.png">
+      </p>
     </td>
   </tr>
   <tr>
@@ -39,19 +47,29 @@ This is a simple one-page application which I have built using React.js, and Tai
   </tr>
 </table>
 
+<br>
+
 # Demonstration 
 
 ### Mobile
 
-<img align="center" height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/mobile-app.png">
+<p align="center">
+  <img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/mobile-app.png">
+</p>
+
 
 <br>
 
 ### PC/Laptop
+<p align="center">
+  <img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
+</p>
+<p align="center">
+  <img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
+</p>
 
-<img align="center" height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
+<br>
 
-<img align="center" height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
 
 # Run Locally
 
