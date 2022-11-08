@@ -73,6 +73,9 @@ This is a simple one-page application which I have built using React.js, and Tai
 
 # Run Locally
 
+To clone this repository. You will need `node` and `npm` installed globally on your machine.  
+
+
 ### Clone the project
 
 ```bash
@@ -82,7 +85,7 @@ This is a simple one-page application which I have built using React.js, and Tai
 ### Go to the project directory
 
 ```bash
-  cd my-project
+  cd react-portfolio
 ```
 
 ### Install dependencies
