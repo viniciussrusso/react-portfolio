@@ -15,12 +15,7 @@ import scrum from "../assets/technologies/scrum.png";
 
 // Projects screenshots
 
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navBar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactParallax.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import monsters from "../assets/portfolio/monsters.jpg";
 
 export {
   html,
@@ -35,10 +30,5 @@ export {
   tailwind,
   node,
   scrum,
-  arrayDestruct,
-  navBar,
-  reactParallax,
-  reactSmooth,
-  installNode,
-  reactWeather,
+  monsters,
 };

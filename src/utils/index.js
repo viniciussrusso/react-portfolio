@@ -1,10 +1,4 @@
 import {
-  arrayDestruct,
-  reactParallax,
-  reactWeather,
-  reactSmooth,
-  installNode,
-  navBar,
   html,
   css,
   git,
@@ -17,33 +11,16 @@ import {
   scrum,
   restapi,
   node,
+  monsters,
 } from "../assets";
 
 // Projects
 export const portfolios = [
   {
     id: 1,
-    src: arrayDestruct,
-  },
-  {
-    id: 2,
-    src: reactParallax,
-  },
-  {
-    id: 3,
-    src: navBar,
-  },
-  {
-    id: 4,
-    src: installNode,
-  },
-  {
-    id: 5,
-    src: reactSmooth,
-  },
-  {
-    id: 6,
-    src: reactWeather,
+    src: monsters,
+    demo: "https://viniciussrusso.github.io/monsters-rolodex/",
+    code: "https://github.com/viniciussrusso/monsters-rolodex",
   },
 ];
 
